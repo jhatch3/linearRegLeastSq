@@ -8,3 +8,5 @@
 - Clean Up code
 - Refactor
 - Commentss (docstrings)
+- Remove hard codded xlim/ylim and line length
+  
