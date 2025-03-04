@@ -7,6 +7,6 @@
 # TODO: 
 - Clean Up code
 - Refactor
-- Commentss (docstrings)
+- Comments (docstrings)
 - Remove hard codded xlim/ylim and line length
   
