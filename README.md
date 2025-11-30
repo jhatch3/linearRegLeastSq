@@ -8,4 +8,4 @@
 
 # Demo 
 
-![alt text](https://github.com/jhatch3/linearRegLeastSq/Figure_1 "Logo Title Text 1")
+![alt text](https://github.com/jhatch3/linearRegLeastSq/blob/main/Figure_1.png "Logo Title Text 1")
